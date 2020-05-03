@@ -1,5 +1,5 @@
 # !/usr/bin/env python
-# -*- coding: UTF-8 -*-
+#-*- coding: UTF-8 -*-
 
 # https://tieba.baidu.com/f?kw=%E8%B7%AF%E7%94%B1%E5%99%A8&ie=utf-8
 
